@@ -9,7 +9,7 @@ This project looks at whether the battle data behind a strategy game's auto-reso
 ## Submission links
 
 - **Recorded presentation:** Aquila_Presentation.mp4 (add before submitting)
-- **Streamlit app:** [deployment pending, slither.cc subdomain](https://github.com/jasonsalonga/Aquila-Auto-Resolve)
+- **Streamlit app:** [aquila.slither.cc](https://insights-gsm-pastor-adaptor.trycloudflare.com/)
 - **Final notebook:** [`notebooks/01_Aquila_Final.ipynb`](notebooks/01_Aquila_Final.ipynb)
 - **Final report:** [`FINAL_REPORT_AUG_17.pdf`](FINAL_REPORT_AUG_17.pdf)
 
