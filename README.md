@@ -8,7 +8,7 @@ This project looks at whether the battle data behind a strategy game's auto-reso
 
 ## Submission links
 
-- **Recorded presentation:** TBA
+- **Recorded presentation:** [Aquila_Presentation.mp4 (pCloud)](https://u.pcloud.link/publink/show?code=XZEXm0JZNRHVUwwzwQBhr9zOPvH9pJVeLFK7)
 - **Streamlit app:** [aquila-auto-resolve](https://aquila-auto-resolve-hxz9kp3zzcakjdfx8cj4cj.streamlit.app/)
 - **Final notebook:** [`notebooks/01_Aquila_Final.ipynb`](notebooks/01_Aquila_Final.ipynb)
 - **Final report:** [`FINAL_REPORT_AUG_17.pdf`](FINAL_REPORT_AUG_17.pdf)
